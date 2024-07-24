@@ -1,4 +1,4 @@
 # Projet Java : Calcul frais de livraison
 
 ### Schéma UML Simplifié du projet
-![UML](https://raw.githubusercontent.com/ash-e/TraitementCommandes/master/TraitementCommandes.png?token=GHSAT0AAAAAACUO5R7M6BBWKTTXPBY2REOMZVBM6AQ)
+![UML](https://github.com/ash-e/TraitementCommandes/blob/master/TraitementCommandes.png)
