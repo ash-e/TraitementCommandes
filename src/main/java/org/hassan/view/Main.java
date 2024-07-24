@@ -3,9 +3,7 @@ package org.hassan.view;
 import org.hassan.controller.OrderManager;
 import org.hassan.model.*;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) {

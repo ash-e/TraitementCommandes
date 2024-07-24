@@ -69,10 +69,6 @@ class OrderManagerTest {
         orderList.add(order2);
         orderManager.setOrders(orderList);
         assertEquals(2, orderManager.getOrders().size());
-        /*
-        assertEquals("Victor",
-                orderManager.getOrders().get(0).getCustomer().getName());
-                */
     }
 
 }
